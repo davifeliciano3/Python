@@ -53,4 +53,6 @@ receita.update(novo_dado)
 receita.pop('br') o valor do objeto é retornado
 del receita['fev'] 
 
+#fromkeys atribui chaves e elementos
+#copy
 """
