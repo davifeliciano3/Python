@@ -14,4 +14,4 @@ print(dic1 == dic2) #True Verdade
 #DICIONÁRIO OrderedDict
 dic1 = OrderedDict( {'a':1, 'b':2})
 dic2 = OrderedDict({'b':2, 'a':1})
-print(dic1 == dic2) #Falso pois converva a ordem de insersão 
+print(dic1 == dic2) #Falso pois converva a ordem de insersão
