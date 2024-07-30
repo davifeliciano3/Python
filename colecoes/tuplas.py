@@ -47,5 +47,7 @@ while i < len(tupla):
     i++
 
 #methodos que existem em lista e em tuplas
-count e index len contains 
+count e index len contains
+
+#Tuplas são mais rápidas e mais seguras
 """
