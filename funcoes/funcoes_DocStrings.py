@@ -10,6 +10,6 @@ Podemos fazer acesso com a função help() help(diz_oi)
 def diz_oi():
     """
     Uma função que retorna oi
-    :return:
+    :return: Pytchame completou essa parte
     """
     return 'oi'
