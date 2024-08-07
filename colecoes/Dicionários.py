@@ -40,7 +40,7 @@ localidades = { # è bom usar tuplas como chaves, pois são imutaveis
 #Adicionando um elemento
 
 receita = {'jan':100,'fev':120}
-receita['set] = 300
+receita['set'] = 300
 
 novo_dado = {'mai':400}
 receita.update(novo_dado)
